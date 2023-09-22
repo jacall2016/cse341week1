@@ -5,7 +5,7 @@
     "description": "Users Api",
     "version": "1.0.0"
   },
-  "host": "zzproject1-iw64.onrender.com",
+  "host": "project1-iw64.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
